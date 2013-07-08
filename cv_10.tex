@@ -1,0 +1,262 @@
+%!TEX TS-program = 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Friggeri Resume/CV
+% XeLaTeX Template
+% Version 1.0 (5/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Adrien Friggeri (adrien@friggeri.net)
+% https://github.com/afriggeri/CV
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX and the bibliography, if used,
+% needs to be compiled with biber rather than bibtex.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
+
+\addbibresource{bibliography.bib} % Specify the bibliography file to include publications
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage[lastpage,user]{zref}
+
+\pagestyle{fancy}
+
+\cfoot{Page: \thepage\ of \pageref*{LastPage}}
+
+\begin{document}
+
+\header{rohan}{smith}{drupal web developer/embedded hardware electronics developer} % Your name and current job title/field
+
+%----------------------------------------------------------------------------------------
+%	SIDEBAR SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{aside} % In the aside, each new line forces a line break
+\section{contact}
+29 Camelia Way
+Mona Heights
+Kingston
+Jamaica
+~
++1 (876) 449-7506
+\href {skype://rohanthesmith}{skype://rohanthesmith}\includegraphics[height=16pt]{skype.png}
+~
+\href{mailto:rohan@exterbox.com}{rohan@exterbox.com}\includegraphics[height=16pt]{email.png}
+\href{http://twitter.com/frazras}{@frazras}\includegraphics[height=16pt]{twitter.eps}
+\href{http://drupal.org/user/34622}{drupal://frazras}\includegraphics[height=16pt]{druplicon.png}
+\href {https://github.com/frazras}{github://frazras}\includegraphics[height=16pt]{octocat.png}
+\href {http://jm.linkedin.com/in/rohansmith}{LinkedIn://rohan}\includegraphics[height=16pt]{linkedin.png}
+\section{languages}
+English (first)
+Spanish (learning)
+Jamaican Creole (informal)
+\section{programming}
+ PHP,  JavaScript, HTML, CSS, SQL, Java, Embedded C/C++, Assembly, Python, Bash, Scheme, Haskell.
+\end{aside}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{education}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2007--2013}
+{Masters {\normalfont of Philosophy (Computer Science)}}
+{The University of the West Indies, Mona}
+{\emph{\texttt{X10ABOT}:The Modular, Extensible, Scalable Robotics Platform.} \\ This thesis brought together the necessary features of a good robotics kit architecture and implemented it using the Arduino hardware platform and C/C++.}
+%------------------------------------------------
+\entry
+{2004--2007}
+{Bachelor {\normalfont of Science}}
+{The University of the West Indies, Mona}
+{Computer Science \& Electronics \emph{(Double Major)}}
+%------------------------------------------------
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{experience}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2012--Now}
+{Thinkdrop LLC}
+{Brooklyn, New York, U.S.A.}
+{\emph{Backend Drupal Developer} \\
+Developed Drupal modules and features for various web applications. Maintained the company's website, developed Thinkdrop's in-house products and contributed to their open-source projects.
+\begin{itemize}
+\item Learned web-server backend automation with the chef project.
+\item Wrote an open-source Drupal module for unit testing and contributed to other company made proprietary and open-source modules.
+\item Worked with a multi-member team on git.
+\item Helped to develop user requirements and implement them.
+\item Worked with the Github API.
+\item Maintained the sense of humor in the team :-)
+\end{itemize}}
+%------------------------------------------------
+\entry
+{2012--2012}
+{That Exactly \& Bside Studios}
+{Miami, Florida, U.S.A.}
+{\emph{Drupal and PHP Developer} \\
+Did utility work for two sister companies, from server configuration to Javascript.
+\begin{itemize}
+\item Developed Content Staging site for writers using Drupal Workbench.
+\item PHP development with the Rackspace API to do automated backups
+\item Drupal Javascript and AJAX work.
+\item Linux Environment Setup.
+\end{itemize}}
+%------------------------------------------------
+\entry
+{2011-2011}
+{StillRock}
+{West Chester, Pennsylvania, U.S.A.}
+{\emph{Drupal Site Builder} \\
+Did mostly Apache Solr work on a former MTV subsidiary site, www.entertainher.com.}
+%------------------------------------------------
+\entry
+{2007-Now}
+{Exterbox}
+{Kingston, jamaica}
+{\emph{Co-founder/Technical Lead} \\
+Exterbox is my startup company where I do any interesting projects that may fall in the field of web or embedded electronics development. We work on creating \emph{``out-of-the-box''} ideas to solve a client's needs or just to create cool products.
+\begin{itemize}
+	\item Developed a infra-red perimeter security system for farmers.
+	\item Creating the Drupal Appstore \emph{(in development).}
+	\item The X10ABOT Robotics Development System \emph{(in development).
+	\item Worked with SMS modems, Twilio and the Drupal SMS Framework
+}
+\end{itemize}
+}
+\end{entrylist}
+
+\newpage
+%----------------------------------------------------------------------------------------
+%	Technological Skills SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Technological Skills}
+\textbf{Languages:}
+\begin{itemize}
+\item \textbf{Proficient: }PHP, Java, Embedded C/C++, JavaScript, HTML, CSS, XML, JSON, SQL.
+\item \textbf{Capable: }Python, Bash, Scheme, Haskell, Assembly.
+\item \textbf{Used once or twice: }ASP, Matlab, VB6, Perl, Ruby.
+\item \textbf{Applications:}L.A.M.P, \LaTeX, Arduino, Drupal, Adobe Design Suite, Git.
+\item \textbf{Drupal Specific: } Drupal 4.7,5.x,6.x,7.x,8.x, Solr, Drush, Features, Aegir, Panels, Ctools, Context, S.E.O, Display Suite, Workbench, Rules, Commerce, Entities, Omega, Twitter-Bootstrap, Devshop.
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	INTERNET PROFILES
+%----------------------------------------------------------------------------------------
+
+\section{online profiles}
+I am active in a number of online communities:
+\begin{itemize}
+	\item \includegraphics[height=16pt]{druplicon.png}\textbf{Drupal: }\href {http://drupal.org/user/34622}{http://drupal.org/user/34622}
+	\item \includegraphics[height=16pt]{octocat.png}\textbf{Github: }\href {https://github.com/frazras}{https://github.com/frazras}
+	\item \includegraphics[height=16pt]{stackoverflow.png}\textbf{StackOverflow: }\href
+	{http://stackoverflow.com/users/1106420/frazras}{http://stackoverflow.com/users/1106420/frazras}
+	\item \includegraphics[height=16pt]{stackexchange.png}\textbf{StackExchange: } \href {http://stackexchange.com/users/530574/frazras?tab=accounts}{http://stackexchange.com/users/530574/frazras?tab=accounts}
+	\item  \includegraphics[height=16pt]{twitter.eps} \textbf{Twitter: }\href {http://twitter.com/frazras}{http://twitter.com/frazras}
+	\item \includegraphics[height=16pt]{linkedin.png} \textbf{Linkedin: }\href {http://jm.linkedin.com/in/rohansmith}{http://jm.linkedin.com/in/rohansmith}
+	\item \includegraphics[height=16pt]{skype.png}\textbf{Skype: }\href {http://myskype.info/rohanthesmith}{http://myskype.info/rohanthesmith}
+\end{itemize}
+
+
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{interests}
+
+\textbf{professional:} Web development, UX design, mobile development, linux and server configuration, site searching, application architecting, marketing, idea brainstorming, embedded development, automation, robotics, telemetry, electronic security, computer and social networking, computer hardware, project management
+\textbf{personal:} hiking, photography, music, cooking, football(soccer), long-distance running.
+
+%----------------------------------------------------------------------------------------
+%	AWARDS SECTION
+%----------------------------------------------------------------------------------------
+
+%\section{awards}
+
+%\begin{entrylist}
+%------------------------------------------------
+%\entry
+%{2007}
+%{Computing Department Award}
+%{Department of Computing, The University of the West Indies}{}
+%------------------------------------------------
+%\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	COMMUNICATION SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{communication skills}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2013}
+{Oral Presentation and Written Paper}
+{IEEE South East Conference 2013, Jacksonville, Florida, U.S.A}
+{Presented the research I conducted for my Masters of Philosophy degree.}
+%------------------------------------------------
+\entry
+{2008}
+{Poster}
+{Pure \& Applied Sciences Conference, UWI, Mona, Jamaica}
+{Presented the research I conducted for my Masters of Philosophy degree.}
+%------------------------------------------------
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	USEFUL ASSETS
+%----------------------------------------------------------------------------------------
+
+\section{useful assets}
+\begin{itemize}
+	\item Driver's License
+	\item United States Non-Immigrant B1/B2 Visa
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+%\section{publications}
+
+%\printbibsection{article}{article in peer-reviewed journal} % Print all articles from the bibliography
+
+%\printbibsection{book}{books} % Print all books from the bibliography
+
+%\begin{refsection} % This is a custom heading for those references marked as "inproceedings" but not containing %"keyword=france"
+%\nocite{*}
+%\printbibliography[sorting=chronological, type=inproceedings, title={international peer-reviewed conferences/proceedings}, %notkeyword={france}, heading=subbibliography]
+%\end{refsection}
+
+%\begin{refsection} % This is a custom heading for those references marked as "inproceedings" and containing "keyword=france"
+%\nocite{*}
+%\printbibliography[sorting=chronological, type=inproceedings, title={local peer-reviewed conferences/proceedings}, %keyword={france}, heading=subbibliography]
+%\end{refsection}
+
+%\printbibsection{misc}{other publications} % Print all miscellaneous entries from the bibliography
+
+%\printbibsection{report}{research reports} % Print all research reports from the bibliography
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
