@@ -1,5 +1,7 @@
 #My CV
-This is a modified version of the CV template provided by Adrien Friggeri with my personal info
+This is a modified version of the Latex CV template provided by Adrien Friggeri with my personal info
+
+See this link for the current pdf version: https://github.com/frazras/resume/blob/master/cv_10.pdf
 
 # About
 Latest version of my CV, typesetted in Helvetica and using colors inspired by Monokai (there is an `print` option which renders in black and white, and reverts the header to dark on light, if printing on paper is needed).
