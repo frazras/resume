@@ -1,6 +1,6 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  11 OCT 2016 14:19
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  24 JUL 2017 10:49
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **cv_10.tex
 (./cv_10.tex
@@ -1144,65 +1144,65 @@ File: english.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
 (./cv_10.aux)
 \openout1 = `cv_10.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 33.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 38.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 38.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 \g__fontspec_family_latinmodern-math.otf_int=\count314
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 33.
+(Font)              `operators' in the math version `normal' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/latinmodern-math.otf(0)/m/n on inpu
-t line 33.
+t line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 33.
+(Font)              `operators' in the math version `bold' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/latinmodern-math.otf(0)/bx/n on in
-put line 33.
+put line 38.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 33.
+(Font)              `symbols' in the math version `normal' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> EU1/latinmodern-math.otf(1)/m/n on inp
-ut line 33.
+ut line 38.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 33.
+(Font)              `symbols' in the math version `bold' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> EU1/latinmodern-math.otf(1)/bx/n on in
-put line 33.
+put line 38.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 3
-3.
+8.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/m/n on inp
-ut line 33.
+ut line 38.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 33.
+(Font)              `largesymbols' in the math version `bold' on input line 38.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/bx/n on in
-put line 33.
+put line 38.
 
 ABD: EveryShipout initializing macros
 Package biblatex Info: XeTeX detected.
@@ -1215,8 +1215,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv_10.bbl' not found.
 
 No file cv_10.bbl.
-Package biblatex Info: Reference section=0 on input line 33.
-Package biblatex Info: Reference segment=0 on input line 33.
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1252,7 +1252,7 @@ Package biblatex Info: Reference segment=0 on input line 33.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 33.
+Package hyperref Info: Link coloring OFF on input line 38.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1261,9 +1261,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count315
 )
-LaTeX Info: Redefining \ref on input line 33.
-LaTeX Info: Redefining \pageref on input line 33.
-LaTeX Info: Redefining \nameref on input line 33.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
 
 (./cv_10.out) (./cv_10.out)
 \@outlinefile=\write5
@@ -1271,27 +1271,29 @@ LaTeX Info: Redefining \nameref on input line 33.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 33.
+(lastpage)             ! on input line 38.
+File: druplicon.png Graphic file (type QTm)
+ <use  "druplicon.png" >
 File: images/skype.png Graphic file (type QTm)
  <use  "images/skype.png" >
-Overfull \hbox (9.67941pt too wide) in paragraph at lines 49--49
+Overfull \hbox (9.67941pt too wide) in paragraph at lines 55--55
  [][]\EU1/HelveticaNeueLight(0)/m/n/10 skype://rohanthesmith[][]
  []
 
 File: email.png Graphic file (type QTm)
 <use  "email.png" >
-Overfull \hbox (5.2991pt too wide) in paragraph at lines 51--51
+Overfull \hbox (5.2991pt too wide) in paragraph at lines 57--57
  [][]\EU1/HelveticaNeueLight(0)/m/n/10 rohan@exterbox.com[][]
  []
 
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
 File: twitter.eps Graphic file (type eps)
 <twitter.eps>
 File: druplicon.png Graphic file (type QTm)
@@ -1301,39 +1303,39 @@ File: octocat.png Graphic file (type QTm)
 File: stackexchange.png Graphic file (type QTm)
 
 <use  "stackexchange.png" >
-Overfull \hbox (16.73807pt too wide) in paragraph at lines 55--55
+Overfull \hbox (16.73807pt too wide) in paragraph at lines 61--61
  [][]\EU1/HelveticaNeueLight(0)/m/n/10 stackexchange://frazras[][]
  []
 
 File: linkedin.png Graphic file (type QTm)
 <use  "linkedin.png" >
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 73.
+(Font)              scaled to size 10.00015pt on input line 84.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.00006pt on input line 73.
+(Font)              scaled to size 7.00006pt on input line 84.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 73.
+(Font)              scaled to size 5.00008pt on input line 84.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 73.
+(Font)              scaled to size 9.99985pt on input line 84.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.99986pt on input line 73.
+(Font)              scaled to size 6.99986pt on input line 84.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 73.
+(Font)              scaled to size 4.99992pt on input line 84.
 
-Underfull \hbox (badness 1325) in paragraph at lines 100--100
+Underfull \hbox (badness 1325) in paragraph at lines 111--111
 []\EU1/HelveticaNeueLight(0)/m/n/10 Designed MySQL and SQLite Databases and con
 structed complex
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--179
+Underfull \hbox (badness 10000) in paragraph at lines 84--190
 
  []
 
 LaTeX Font Info:    Font shape `EU1/HelveticaNeueLight(0)/m/sl' in size <10> no
 t available
 (Font)              Font shape `EU1/HelveticaNeueLight(0)/m/it' tried instead o
-n input line 180.
+n input line 191.
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 12.0pt.
@@ -1353,12 +1355,12 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 188
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 199
 .
  (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 182--198
+Underfull \hbox (badness 10000) in paragraph at lines 193--209
 
  []
 
@@ -1371,14 +1373,14 @@ File: stackoverflow.png Graphic file (type QTm)
 File: stackexchange.png Graphic file (type QTm)
 
 <use  "stackexchange.png" >
-Invalid UTF-8 byte or sequence at line 225 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 225 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 225 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 225 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 225 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 225 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 225 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 225 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
 File: twitter.eps Graphic file (type eps)
  <twitter.eps>
 File: linkedin.png Graphic file (type QTm)
@@ -1386,28 +1388,36 @@ File: linkedin.png Graphic file (type QTm)
 File: skype.png Graphic file (type QTm)
 
 <use  "skype.png" > [2]
-Underfull \hbox (badness 10000) in paragraph at lines 262--285
+Underfull \hbox (badness 10000) in paragraph at lines 273--296
 
  []
 
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 8.00012pt on input line 369.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.00009pt on input line 369.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.99988pt on input line 369.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.99991pt on input line 369.
 
 AED: lastpage setting LastPage
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 337.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 370.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 370.
  (./cv_10.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 337.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 337.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 370.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 370.
 Package logreq Info: Writing requests to 'cv_10.run.xml'.
 \openout1 = `cv_10.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40894 strings out of 493706
- 771521 string characters out of 6145769
- 1201412 words of memory out of 5000000
- 43728 multiletter control sequences out of 15000+600000
- 5431 words of font info for 65 fonts, out of 8000000 for 9000
+ 40920 strings out of 493706
+ 772781 string characters out of 6145769
+ 1201485 words of memory out of 5000000
+ 43742 multiletter control sequences out of 15000+600000
+ 6565 words of font info for 77 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  73i,12n,67p,10425b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
 

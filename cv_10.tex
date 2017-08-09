@@ -26,13 +26,18 @@
 \usepackage{fancyhdr}
 \usepackage[lastpage,user]{zref}
 
+\newcommand{\pagenote}[1]{{%
+  \let\thempfn\relax% Remove footnote number printing mechanism
+  \footnotetext[0]{\emph{#1}}% Print footnote text
+}}
+ \newcommand{\updateinfo}[1][\today]{\par\vfill\hfill{\scriptsize\color{gray}Last updated on #1}}
 \pagestyle{fancy}
 
 \cfoot{Page: \thepage\ of \pageref*{LastPage}}
 
 \begin{document}
 
-\header{rohan}{smith}{software architect/developer | DevOps Engineer | embedded hardware electronics developer} % Your name and current job title/field
+\header{Rohan }{Smith}{software architect | \includegraphics[height=16pt]{druplicon.png} drupal developer}% | DevOps Engineer | embedded hardware electronics developer} % Your name and current job title/field
 
 %----------------------------------------------------------------------------------------
 %	SIDEBAR SECTION
@@ -40,6 +45,7 @@
 
 \begin{aside} % In the aside, each new line forces a line break
 \section{contact}
+Rohan A. Smith
 Idlewild Trace
 Mt. Grace
 Tobago
@@ -54,9 +60,14 @@ Trinidad \& Tobago
 \href {https://github.com/frazras}{github://frazras}\includegraphics[height=16pt]{octocat.png}
 \href{http://stackexchange.com/users/530574/frazras?tab=accounts}{stackexchange://frazras}\includegraphics[height=16pt]{stackexchange.png}
 \href {http://jm.linkedin.com/in/rohansmith}{LinkedIn://rohan}\includegraphics[height=16pt]{linkedin.png}
+\section{timezone}
+Easter Standard Time (EST)
+Atlantic Standard Time (AST)
+GMT -4
 \section{languages}
 English (first)
 Spanish (learning)
+Klingon
 Jamaican Creole (informal)
 \section{nationality}
 Jamaican
@@ -81,9 +92,9 @@ Jamaican
 \begin{itemize}
 \item Developed multi-lingual AngularJS application to inteface with Drupal
 \item Managed multi-lingual and multi domain sites
-\item Architecting site frameworks for high traffic clients
+\item Architected site frameworks for high traffic clients
 \item Developed Apache Solr search features with facets
-\item Custom module and drupal feature development
+\item Custom module and drupal features development
 \end{itemize}}
 %------------------------------------------------
 
@@ -203,12 +214,12 @@ Did utility work for two sister companies, from server configuration to Javascri
 \section{Technological Skills}
 \textbf{Languages:}
 \begin{itemize}
-\item \textbf{Proficient: }PHP, Python, Java, Embedded C/C++, JavaScript(AngularJS, Ionic, ExtJs, JQuery), HTML5, CSS(Bootstrap, SASS/SCSS \& LESS), SQL, SQLite.
-\item \textbf{Capable: }Bash, Scheme, Haskell, Assembly, Swift, Objective\-C, PHP(Symfony, Silex, PHPSlim), Python(Flask Framework).
-\item \textbf{Used once or twice: }ASP, Matlab, VB6, Perl, Ruby, BASIC.
-\item \textbf{Applications:}L.A.M.P, Chef, MongoDB, PostgreSQL, \LaTeX, Drupal, Sketch, Adobe Design Suite, Git.
-\item \textbf{Hardware Applications (Very Proficient):} Arduino, Raspberry Pi.
+\item \textbf{Proficient: }PHP, JavaScript(AngularJS, Ionic, ReactJS, React Native, ExtJs, JQuery), HTML5, CSS(Bootstrap, SASS/SCSS \& LESS), Python, Java, Embedded C, SQL.
+\item \textbf{Capable: }Bash, Scheme, Haskell, Assembly, Swift, Objective\-C, C++, PHP(Symfony, Silex, PHPSlim), Python(Flask Framework).
+\item \textbf{Basic Proficiency: }ASP, Matlab, VB6, Perl, Ruby, BASIC.
+\item \textbf{Applications:}L.A.M.P, A.W.S. Emacs, Vi, grep, sed, awk, Chef, MongoDB, PostgreSQL, \LaTeX, Drupal, Sketch, Adobe Design Suite, Git, Sendy.
 \item \textbf{Drupal Specific: } Drupal 4.7,5.x,6.x,7.x,8.x, Solr, Drush, Features, Aegir, Panels, Ctools, Context, S.E.O, Display Suite, Workbench, Rules, Commerce, Entities, Omega, Twitter-Bootstrap, Devshop.
+\item \textbf{Hardware Applications (Proficient):} Arduino, Raspberry Pi.
 \end{itemize}
 
 %----------------------------------------------------------------------------------------
@@ -236,7 +247,7 @@ I am active in a number of online communities:
 \section{interests}
 
 \textbf{professional:} Web development, Internet Marketing, linux and Devops, training, project management, UX design, mobile development, site searching, application architecting, marketing, idea brainstorming, embedded development, automation, robotics, telemetry, electronic security, computer and social networking, computer hardware
-\textbf{personal:} hiking, photography, music, books, hydroponics, podcasts, cooking, football(soccer), long-distance running.
+\textbf{personal:} hiking, audio books, photography, music, books, hydroponics, podcasts, cooking, football(soccer), long-distance running.
 
 %----------------------------------------------------------------------------------------
 %	AWARDS SECTION
@@ -301,11 +312,33 @@ I am active in a number of online communities:
 
 \section{active side projects}
 \begin{itemize}
-	\item Creator and Moderator of {\href{http://remotesoftwaredeveloper.com}{Remote Software Developer Group}} (\approx400 members)
-    \item Co-planner of the {\href{http://remoteworkingconf.com}{International Remote Working Conference 2016}}
-    \item Android App: {\href{https://play.google.com/store/apps/details?id=com.ionicframework.sdanewandoldhymnal816673&hl=en}{SDA Hymnal Old and New}} (\approx43,000 installs)
+	\item Creator and Moderator of {\href{http://remotesoftwaredeveloper.com}{Remote Software Developer Group}} (\approx575 members)
+    \item Co-planner of the {\href{http://remoteworkingconf.com}{International Remote Working Conference 2016}} (\approx600 attendees)
+    \item Android App: {\href{https://play.google.com/store/apps/details?id=com.ionicframework.sdanewandoldhymnal816673&hl=en}{SDA Hymnal Old and New}} (\approx130,000 installs)
     \item {\href{http://gotivate.me}{Gotivate.me}} - Get daily motivations to help you WIN at life.
     \item An10a - RaspberryPi project to stream local Terrestrial TV stations over the internet
+    \item {\href{http://verblive.exterbox.com}{VerbLive}}- Python project to animate text for social media posts.
+\end{itemize}
+
+\section{notable past client projects}
+\begin{itemize}
+	\item University of California, Los Angeles (UCLA)
+    \item TripAdvisor
+    \item American Golf Corporation
+    \item University of the West Indies
+    \item Indiana University
+    \item Harmonic Inc.
+    \item Stanford University
+\end{itemize}
+
+\section{recent books read}
+\begin{itemize}
+	\item Mindset
+    \item The One Thing
+    \item Grit
+    \item The Power of Broke
+    \item Capital in the 21st Century
+    \item Sleep Smarter
 \end{itemize}
 
 %----------------------------------------------------------------------------------------
@@ -333,5 +366,5 @@ I am active in a number of online communities:
 %\printbibsection{report}{research reports} % Print all research reports from the bibliography
 
 %----------------------------------------------------------------------------------------
-
+\pagenote{\updateinfo  - Made with \LaTeX.}
 \end{document}
