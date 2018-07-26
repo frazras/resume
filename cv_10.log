@@ -1,6 +1,6 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  24 JUL 2017 10:49
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  26 JUL 2018 02:03
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **cv_10.tex
 (./cv_10.tex
@@ -1322,20 +1322,20 @@ LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 84.
 
-Underfull \hbox (badness 1325) in paragraph at lines 111--111
+Underfull \hbox (badness 1325) in paragraph at lines 126--126
 []\EU1/HelveticaNeueLight(0)/m/n/10 Designed MySQL and SQLite Databases and con
 structed complex
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--190
+Underfull \hbox (badness 10000) in paragraph at lines 84--200
 
  []
 
 LaTeX Font Info:    Font shape `EU1/HelveticaNeueLight(0)/m/sl' in size <10> no
 t available
 (Font)              Font shape `EU1/HelveticaNeueLight(0)/m/it' tried instead o
-n input line 191.
+n input line 205.
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 12.0pt.
@@ -1355,12 +1355,12 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 199
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 213
 .
  (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 193--209
+Underfull \hbox (badness 10000) in paragraph at lines 207--223
 
  []
 
@@ -1373,14 +1373,14 @@ File: stackoverflow.png Graphic file (type QTm)
 File: stackexchange.png Graphic file (type QTm)
 
 <use  "stackexchange.png" >
-Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 236 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 250 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 250 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 250 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 250 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 250 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 250 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 250 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 250 replaced by U+FFFD.
 File: twitter.eps Graphic file (type eps)
  <twitter.eps>
 File: linkedin.png Graphic file (type QTm)
@@ -1388,26 +1388,26 @@ File: linkedin.png Graphic file (type QTm)
 File: skype.png Graphic file (type QTm)
 
 <use  "skype.png" > [2]
-Underfull \hbox (badness 10000) in paragraph at lines 273--296
+Underfull \hbox (badness 10000) in paragraph at lines 287--310
 
  []
 
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 369.
+(Font)              scaled to size 8.00012pt on input line 382.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 369.
+(Font)              scaled to size 6.00009pt on input line 382.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 369.
+(Font)              scaled to size 7.99988pt on input line 382.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 369.
+(Font)              scaled to size 5.99991pt on input line 382.
 
 AED: lastpage setting LastPage
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 370.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 370.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 383.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 383.
  (./cv_10.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 370.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 370.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 383.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 383.
 Package logreq Info: Writing requests to 'cv_10.run.xml'.
 \openout1 = `cv_10.run.xml'.
 
@@ -1415,7 +1415,7 @@ Package logreq Info: Writing requests to 'cv_10.run.xml'.
 Here is how much of TeX's memory you used:
  40920 strings out of 493706
  772781 string characters out of 6145769
- 1201485 words of memory out of 5000000
+ 1201484 words of memory out of 5000000
  43742 multiletter control sequences out of 15000+600000
  6565 words of font info for 77 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
